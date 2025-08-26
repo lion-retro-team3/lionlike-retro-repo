@@ -1,7 +1,7 @@
 // package week_02._0819;
 import java.util.*;
 
-public class Practice {
+public class Practice_250819 {
     public static void main(String[] args) {
         // 1. int 타입의 a라는 변수에 10을, b라는 변수에는 20이라는 값을 넣기.
         // 2. a와 b를 더해서 그 값을 출력하기.

@@ -1,4 +1,4 @@
-package week_02._0821;
+
 
 // Car 라는 클래스(설계도)를 정의
 class Car {
@@ -12,7 +12,7 @@ class Car {
     }
 }
 
-public class CarTest {
+public class CarTest_0821 {
     public static void main(String[] args) {
 
         // 인스턴스 생성 ( = 객체 )
