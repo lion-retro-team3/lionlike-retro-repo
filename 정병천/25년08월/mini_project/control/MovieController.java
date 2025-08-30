@@ -4,7 +4,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * SeatManager Class
+ * MovieController Class
  * info : 영화 관리 클래스
  * @author 정병천
  */
