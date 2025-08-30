@@ -112,7 +112,7 @@ public class Main {
                     System.out.println("╰╼|══════════════════════════════════════════════|╾╯");
                     return;
                 default:
-                    System.out.println("잘못 입력하셨습니다. 0~3 사이의 숫자를 입력해주세요.");
+                    System.out.println("잘못 입력하셨습니다. 0~6 사이의 숫자를 입력해주세요.");
             }
         }
     }
