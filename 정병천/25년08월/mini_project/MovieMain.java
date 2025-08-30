@@ -1,7 +1,7 @@
 package mini_project;
 import java.util.Scanner;
-import mini_project.service.MovieService;
-import mini_project.consoleUI;
+// import mini_project.service.MovieService;
+// import mini_project.consoleUI;
 
 public class MovieMain {
     static Scanner sc = new Scanner(System.in);
